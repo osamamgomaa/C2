@@ -1,0 +1,41 @@
+name: c2
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.0.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/svg/
+
+  fonts:
+    - family: Usual
+      fonts:
+        - asset: assets/fonts/Usual_Light.otf
+          weight: 300
+        - asset: assets/fonts/Usual_Regular.otf
+          weight: 400
+        - asset: assets/fonts/Usual_Medium.otf
+          weight: 500
+        - asset: assets/fonts/Usual_Bold.otf
+          weight: 700
+        - asset: assets/fonts/Usual_ExtraBold.otf
+          weight: 800
