@@ -6,8 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![Screenshot 1](/Screenshots/Screenshot 1.jpeg)
-![Screenshot 2](/Screenshots/Screenshot 2.jpeg)
+[Screenshot 1](/Screenshots/Screenshot 1.jpeg)
+[Screenshot 2](/Screenshots/Screenshot 2.jpeg)
 
 A few resources to get you started if this is your first Flutter project:
 
