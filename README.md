@@ -6,9 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![Screenshot 1](../blob/main/Screenshots/Screenshot 1.jpeg)
+![Screenshot 1](https://raw.githubusercontent.com/osamamgomaa/C2/main/Screenshots/Screenshot%201.jpeg?token=GHSAT0AAAAAABRHZTW3QYSR63PCD2CSLSXAYSRNBXQ)
 ===========================================================
-![Screenshot 2](../blob/main/Screenshots/Screenshot 2.jpeg)
+![Screenshot 2](https://raw.githubusercontent.com/osamamgomaa/C2/main/Screenshots/Screenshot%202.jpeg?token=GHSAT0AAAAAABRHZTW2XAJZ3AE4MHQOIC4AYSRNB3Q)
 
 A few resources to get you started if this is your first Flutter project:
 
